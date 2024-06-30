@@ -5,7 +5,7 @@ from _stats.schmidt_test import generalised_schmidt_test as gst
 
 from _utils.termcolors import termcolors as tc
 
-NUMBER_OF_SIMS = 1
+NUMBER_OF_SIMS = 1_000
 
 # define a state
 initial_state = State(A=288, Z=115)
@@ -20,7 +20,7 @@ sim.run_simulation(NUMBER_OF_SIMS)
 sim.print_results()
 
 # print mean lifetimes
-sim.print_mean_lifetimes()        
+sim.print_mean_lifetimes()
 
 # print statistics of individual steps
 sim.print_schmidt_test()
