@@ -1,6 +1,6 @@
 # shn-decay-chains
 
-This software has been written as part of my bachelor thesis project at Lund University. The title of my paper is *Scrutinizing the Schmidt Test and Exploring the Use of Machine Learning for Statistical Assessment of Radioactive Decay Chains Stemming from Superheavy Nuclei Research*.
+This software has been written as part of my bachelor thesis project at Lund University. The title of my paper is "*Scrutinizing the Schmidt Test and Exploring the Use of Machine Learning for Statistical Assessment of Radioactive Decay Chains Stemming from Superheavy Nuclei Research*".
 
 The project involved statistical analysis of decay chains of superheavy nuclei. The code in this particular repository was used to generate simulated decay chains. It uses Monte Carlo (MC) methods in order to simulate lifetimes for an arbitrary amount of chains. Additionally, branching ratios for different decay paths are also MC-simulated. A so-called Schmidt Test **[1,2]** is implemented to assess congruence of individual steps and entire decay chains.
 
