@@ -11,5 +11,6 @@ My paper is available for open access [here](http://lup.lub.lu.se/student-papers
 References:
 
 **[1]** Schmidt, K H. “A New Test for Random Events of an Exponential Distribution.” The European Physical Journal A, 2000.
+
 **[2]** [Forsberg, Ulrika. “Element 115.” PhD, Lund University, 2016.](https://lup.lub.lu.se/record/c5df0fbd-7eb1-46a3-a47e-c5c35887859e)
 
