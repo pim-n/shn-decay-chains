@@ -1,0 +1,35 @@
+# Data adapted from U. Forsberg “Element 115.”
+# Lund University, 2016.
+# https://lup.lub.lu.se/record/c5df0fbd-7eb1-46a3-a47e-c5c35887859e
+
+288.115.0:
+  name: '288-Fl'
+  half_life: 0.2
+  branches: {'alpha1': [1.0, 10300, 0]}
+
+284.113.0:
+  name: '284-Nh'
+  half_life: 0.7
+  branches: {'alpha1': [0.9, 10100, 0],
+             'sf': [0.1, null, null]}
+
+280.111.0:
+  name: '280-Rg'
+  half_life: 6
+  branches: {'alpha1': [0.8, 10000, 0],
+             'sf': [0.2, null, null]}
+
+276.109.0:
+  name: '276-Mt'
+  half_life: 0.8
+  branches: {'alpha1': [1.0, 9900, 0]}
+
+272.107.0:
+  name: '272-Bh'
+  half_life: 9
+  branches: {'alpha1': [1.0, 9100, 0]}
+
+268.105.0:
+  name: '268-Db'
+  half_life: 93600
+  branches: {'sf': [1.0, null, null]}
